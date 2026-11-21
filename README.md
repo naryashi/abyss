@@ -1,5 +1,7 @@
-please, read a individual script before use
-for use is simple, just install git and
+
+please, read a individual script before use,
+for use is simple, just install git and run:
+
 ```
 git clone https://github.com/naryashi/abyss.git
 cd abyss
